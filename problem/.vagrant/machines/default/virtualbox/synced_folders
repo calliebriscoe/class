@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/calliebriscoe/Desktop/class/problem","disabled":false},"/var/www":{"guestpath":"/var/www","hostpath":"/Users/calliebriscoe/Desktop/class/problem/code","disabled":false},"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/calliebriscoe/Desktop/class/problem/code","disabled":false}}}
